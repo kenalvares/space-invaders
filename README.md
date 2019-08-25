@@ -7,5 +7,10 @@ Finally, I sat down and did it myself. This is the end result
 
 ## Rules & Controls
 1. LEFT & RIGHT arrow keys to move the rocket sideways
-2. SPACE bar to fire bullets
-You start the game with 20 bullets and 6 enemies. The enemies scroll sideways and when they touch a side wall, they move closer to you. Your goal is to shoot them. If they reach the bottom of the screen or if you run out of bullets, it's Game Over! Have fun.
+2. SPACE bar to fire bullets.
+3. You start the game with 20 bullets and 6 enemies. 
+4. The enemies scroll sideways and when they touch a side wall, they move closer to you. 
+5. Your goal is to shoot them. 
+6. If they reach the bottom of the screen or if you run out of bullets, it's Game Over! 
+
+Have fun.
