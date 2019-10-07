@@ -1,5 +1,5 @@
 # Space Invaders
-A space invaders clone built in p5.js.
+A space invaders clone built in p5.js. Play it [here](https://kenalvares.github.io/space-invaders/)
 
 ## Description
 Initially tried building this game in class and didn't really plan it properly, so it failed. Afterwards, I followed [this tutorial](https://youtu.be/biN3v3ef-Y0) and using the [p5.js library](https://p5js.org) made Daniel Shiffman's version - Flower Invaders!
